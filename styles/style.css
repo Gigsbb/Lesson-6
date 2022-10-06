@@ -1,0 +1,64 @@
+/* header */
+header{
+    background-color: #0A22F4;
+    height: 300px;
+}
+    
+h2{
+    color:#FFFFFF;
+    font-size: 32px;
+    font-family: 'BPG Ingiri';
+}
+
+div{
+    display: inline;
+}
+
+.box{
+    background-color: #FFFFFF;
+    width: 400px;
+    position: relative;
+    
+}
+
+.box img{
+    width: 400px;
+    height: 360px;
+    object-fit: cover;
+}
+
+.box p{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    right: 15px;
+    font-size: 18px;
+    color: #171717;
+    background-color: #FFFFFF;
+    padding: 20px;
+    
+}
+
+.box1{
+    background-color: #FFFFFF;
+    width: 400px;
+    position: relative;
+
+}
+    
+.box1 img{
+    width: 500px;
+    height: 460px;
+    object-fit: cover;
+}
+
+.box1 p{
+    position: absolute;
+    bottom: 60px;
+    left: 50px;
+    right: 50px;
+    font-size: 18px;
+    color: #171717;
+    background-color: #FFFFFF;
+    padding: 20px;
+}
